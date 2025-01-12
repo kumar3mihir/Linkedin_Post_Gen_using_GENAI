@@ -18,3 +18,6 @@ User Interface: The UI for this project is built using Streamlit, providing an i
 
 Try it Out!
 You can explore the functionality of this LinkedIn Post Generator by running the Streamlit application and generating posts in your desired format.
+
+
+![architecture](https://github.com/user-attachments/assets/51a34ab7-830d-454a-a028-afaa40b5a66c)
