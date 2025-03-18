@@ -1,6 +1,5 @@
-flask
-gunicorn
-flask-cors
-openai
-requests
+streamlit
 pandas
+openai
+
+
